@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **data science/analytics projects.**
 
-- 🌱 I’m currently completing **[Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science?) & [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?) on Coursera for a deeper understanding of the core concepts.**
+- 🌱 I’m currently completing **[Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?) on Coursera for a deeper understanding of the core concepts.**
 
 - 👯 I’m looking to collaborate on **data science & machine learning projects.**
 
